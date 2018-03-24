@@ -34,6 +34,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'capistrano-rails', group: :development
 
 gem 'bootstrap-sass'
+gem "will_paginate"
 gem "devise"
 gem "simple_form"
 group :development, :test do
